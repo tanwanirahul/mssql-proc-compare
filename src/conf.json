@@ -1,0 +1,13 @@
+{
+    "examsoft-kickdrum" : {
+                "server" : "",
+                "user"  : "",
+                "password" : ""
+                },
+
+    "MasterExamLMUOsteo" : {
+                 "server": "",
+                 "user" : "",
+                 "password" : ""
+                }
+}
