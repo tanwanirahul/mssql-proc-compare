@@ -5,18 +5,24 @@ This repository contains code to compare the results of previous and new stored 
 
 
 Usage Instructions:
+==================
 
 Install low level dependencies:
-sudo apt-get install unixodbc unixodbc-dev freetds-dev tdsodbc python-dev
+  sudo apt-get install unixodbc unixodbc-dev freetds-dev tdsodbc python-dev
+
 
 Install Python Odbc drivers.
-Download the source (https://code.google.com/p/pyodbc/downloads/detail?name=pyodbc-3.0.7.zip)
+  Download the source (https://code.google.com/p/pyodbc/downloads/detail?name=pyodbc-3.0.7.zip)
+
+
 Extract and run:
   sudo python setup.py build
   sudo python setup.py install
   
+
 Install pymssql (Driver on top of odbc, with easy to use API)
-sudo pip install pymssql
+  sudo pip install pymssql
+
 
 Once dependencies are installed, you can clone this repository and,
 1. add connection parameters to conf.json
