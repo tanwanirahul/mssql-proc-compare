@@ -8,10 +8,12 @@ This repository contains code to compare the results of previous and new stored 
 
 
 1. Install low level dependencies:
-    sudo apt-get install unixodbc unixodbc-dev freetds-dev tdsodbc python-dev
+    
+    **_sudo apt-get install unixodbc unixodbc-dev freetds-dev tdsodbc python-dev_**
 
 
 2. Install Python Odbc drivers.
+    
     Download the source (https://code.google.com/p/pyodbc/downloads/detail?name=pyodbc-3.0.7.zip)
 
 
