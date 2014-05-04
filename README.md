@@ -23,7 +23,8 @@ This repository contains code to compare the results of previous and new stored 
   
 
 4. Install pymssql (Driver on top of odbc, with easy to use API)
-    sudo pip install pymssql
+    
+    **_sudo pip install pymssql_**
 
 
 5. Once dependencies are installed, you can clone this repository and,
