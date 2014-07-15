@@ -1,9 +1,9 @@
 [
     {
-        "old" : "GetQuestionsRecentOrByFolder",
-        "new" : "ModifiedGetQuestionsRecentOrByFolder",
-        "db" : "MasterExamLMUOsteo",
+        "old" : "OriginalProc",
+        "new" : "NewProc",
+        "db" : "master-db",
         "parameters" : [0, 100, "", "9D69-550D80-51D1A2F-PORJ"],
-        "keyAttribute" : "previewText"
+        "keyAttribute" : "table_id"
     }
 ]
