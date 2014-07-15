@@ -1,11 +1,11 @@
 {
-    "examsoft-kickdrum" : {
+    "transactional-db" : {
                 "server" : "",
                 "user"  : "",
                 "password" : ""
                 },
 
-    "MasterExamLMUOsteo" : {
+    "master-db" : {
                  "server": "",
                  "user" : "",
                  "password" : ""
